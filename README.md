@@ -38,6 +38,31 @@ The five works trace the full arc of Lurianic Kabbalah from its systematic found
 4. **Emek HaMelech** (Bachrach/Sarug) — the divergent school (Tehiru Ila'ah dispute)
 5. **Derush ha-Tanninim** (Nathan of Gaza) — the Sabbatian theological rupture
 
+---
+
+## Research Archive — Primary Source Catalog
+
+Beyond the Kabbalistic translation corpus, Threshold Press maintains a research archive of primary sources for historical investigation. The catalog below documents source materials, their provenance, access status, and known barriers to acquisition. No analysis or interpretive content is included.
+
+### Research Domains
+
+| Domain | Directory | Description |
+|--------|-----------|-------------|
+| Protocols Forgery Chain | `protocols-forgery-chain/` | Documentary genealogy from Joly (1864) through Goedsche (1868) to the Protocols |
+| Bern Trial (1934–1937) | `bern-trial/` | Swiss court proceedings proving the Protocols a forgery |
+| Dissemination Network | `dissemination-network/` | How the forged text spread: publishers, translators, propagandists |
+| Esoteric Traditions | `esoteric-traditions/` | Theosophy, Nazi occultism, Martinism, LDS esoterica |
+
+### Access Difficulty Guide
+
+Sources are marked with access codes:
+- :green_circle: **FREE** — Freely downloadable (IA, HebrewBooks, Project Gutenberg)
+- :yellow_circle: **RESTRICTED** — Exists digitally but requires institutional access, IA borrow, or workaround
+- :red_circle: **RARE** — No known free digital version; physical copies only or single-archive access
+- :black_circle: **UNDIGITIZED** — No digital version confirmed to exist anywhere as of March 2026
+
+See `ACCESS_BARRIERS.md` for the full guide to texts that were difficult to obtain.
+
 ## License
 
 This catalog is provided for scholarly reference. The catalog itself is released under CC BY 4.0. The translations it describes are copyrighted works of Threshold Press.
