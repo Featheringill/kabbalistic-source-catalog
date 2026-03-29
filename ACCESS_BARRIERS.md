@@ -87,10 +87,10 @@ Karl Kraus (d. 1936) texts where Heinrich Fischer's editorial contributions crea
 
 | Text | Author/Date | Known Physical Copies | OCLC | Notes |
 |------|------------|----------------------|------|-------|
-| Génesis de la política del siglo XIX | José María Real y Prado, 1899 (Buenos Aires) | Argentine National Library; Chilean National Library | 80039927 | 1899 Spanish translation of Joly. **Single most significant undigitized gap in the forgery chain.** |
+| ~~Génesis de la política del siglo XIX~~ | ~~José María Real y Prado, 1899~~ | — | 80039927 | **CORRECTED (March 2026):** This entry was erroneous. The actual work is *Diálogo en los infiernos entre Maquiavelo y Montesquieu* by **Teodomiro** Real y Prado (Buenos Aires, **1898**). It IS digitized — available on Internet Archive as `dilogoenlosinfi00jolygoog` (Harvard/Google scan, 336 pp). Also held by UBA Law Faculty Library, Buenos Aires. The "undigitized gap" is resolved. |
 | Protocols (Nilus 1903 Russian edition) | Sergei Nilus, 1903 | — | — | First Russian publication |
 | Protocols (Nilus 1905 Russian edition) | Sergei Nilus, 1905 | — | — | Tsarkoye Selo edition |
-| Simonini letter in Le Contemporain | 1878 issue | BnF / Gallica (not confirmed retrieved) | — | First published Jewish-Masonic synthesis |
+| Simonini letter in Le Contemporain | J. Gagarin (ed.), 1878, t. XXX, pp. 49-70 | BnF Arsenal: 8-JO-21847 or 8-JO-22060; BnF Tolbiac: R-10324–R-10358 | — | First published Jewish-Masonic synthesis. **NOT digitized on Gallica** (only ~1 year of journal run available). Exact citation: "Souvenirs du P. Grivel sur les PP. Barruel et Feller," *Le Contemporain: revue d'économie chrétienne*, 3e série, t. XXX, 1878. Letter at ~p. 58. See `analysis/simonini_letter_search_report.txt` for full search report and scholarly sources (Oberhauser 2020, Markner 2014). |
 
 ---
 

@@ -55,3 +55,10 @@ The manuscript is accessible via NYPL's IIIF Image API:
 - Genesis 1:2, 1:21; Isaiah 27:1; Ezekiel 29:3; Psalm 104:26
 - BT Bava Batra 74b (Leviathan/Tannin aggadah)
 - Genesis Rabbah 7:4 (sea creatures tradition)
+
+## Related Texts — Natural Sequels to the Derush ha-Tanninim
+
+| Text | Author | Relationship | Access |
+|------|--------|-------------|--------|
+| Sefer ha-Beri'ah | Nathan of Gaza | Nathan's cosmological companion to the Derush ha-Tanninim — addresses the creation-process that the Derush's serpent-theology presupposes | ~30 MSS; critical edition on Academia.edu. No English translation exists |
+| Va-avo ha-Yom el ha-Ayin | Attrib. Eibeschutz | Most sophisticated philosophical elaboration of the Sabbatian theology Nathan initiated | Critical edition in Be-Ikvot Mashiah 2021. No full English translation |
