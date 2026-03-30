@@ -104,3 +104,16 @@ The Etz Chayyim is the first of Vital's Eight Gates. The others:
 - BaalHaSulam (Rabbi Yehuda Ashlag), *Talmud Eser Sefirot* and *Sulam* commentary on the Zohar
 - Rashash (Rabbi Shalom Sharabi), *Nahar Shalom* siddur
 - RaMCHaL (Rabbi Moshe Chayyim Luzzatto), *138 Pitchei Chokhmah*
+
+---
+
+## Translation Status
+
+- **Status:** T1 complete
+- **Volumes:** 5 (KDP-ready)
+- **Commentary boxes:** 800+
+- **Box types:** Doctrinal (gold), Scholarly (blue), Textual-Critical (red), Vital's Notes (green)
+- **Standard:** T1 — text labels, ✦ ✦ ✦ dividers, accessibility-compliant formatting
+- **EPUBs:** Built (threshold-press.com distribution)
+- **Translator:** L.L. Featheringill / Threshold Press
+- **Copyright:** © 2026 L.L. Featheringill

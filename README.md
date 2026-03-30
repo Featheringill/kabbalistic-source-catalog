@@ -8,15 +8,17 @@ This repository contains a public catalog of primary source materials, manuscrip
 
 ## Published & Forthcoming Translations
 
-| Work | Author/Compiler | Source Edition | Digital Source | Status | Vols |
-|------|----------------|----------------|---------------|--------|------|
-| **Etz Chayyim** | Vital/Luria | Warsaw 1891 | [hebrewbooks.org/1646](https://hebrewbooks.org/1646) | Complete (KDP) | 5 |
-| **Sha'ar ha-Gilgulim** | Vital | Frankfurt 1684 | [hebrewbooks.org/43534](https://hebrewbooks.org/43534) | Complete, KDP-ready | 3 |
-| **Sha'ar ha-Kavanot** | Vital | Koretz 1784 | [hebrewbooks.org/14347](https://hebrewbooks.org/14347) | Complete, KDP-ready | 4 |
-| **Emek HaMelech** | Bachrach/Sarug | Amsterdam 1648 | [hebrewbooks.org/14359](https://hebrewbooks.org/14359) | Complete, KDP-ready | 3 |
-| **Derush ha-Tanninim** | Nathan of Gaza | NYPL Ms. Heb. 185 (1697) | [NYPL Digital Collections](https://digitalcollections.nypl.org/items/d0a11fc0-2602-0130-d287-58d385a7b928) | First draft complete | 1 |
+| Work | Author/Compiler | Source Edition | Digital Source | Status | Vols | Boxes |
+|------|----------------|----------------|---------------|--------|------|-------|
+| **Etz Chayyim** | Vital/Luria | Warsaw 1891 | [hebrewbooks.org/1646](https://hebrewbooks.org/1646) | T1 complete (KDP) | 5 | 800+ |
+| **Sha'ar ha-Gilgulim** | Vital | Frankfurt 1684 | [hebrewbooks.org/43534](https://hebrewbooks.org/43534) | T1 complete, KDP-ready | 3 | 657 |
+| **Sha'ar ha-Kavanot** | Vital | Koretz 1784 | [hebrewbooks.org/14347](https://hebrewbooks.org/14347) | T1 complete, KDP-ready | 4 | 338 |
+| **Emek HaMelech** | Bachrach/Sarug | Amsterdam 1648 | [hebrewbooks.org/14359](https://hebrewbooks.org/14359) | T1 complete, KDP-ready | 3 | 210+ |
+| **Derush ha-Tanninim** | Nathan of Gaza | NYPL Ms. Heb. 185 (1697) | [NYPL Digital Collections](https://digitalcollections.nypl.org/items/d0a11fc0-2602-0130-d287-58d385a7b928) | T1 complete, KDP-ready | 1 | 71 |
 
-Together these constitute the **first complete Lurianic-to-Sabbatian doctrinal library in any Western language**.
+**Corpus totals:** 16 volumes, 2,076+ commentary boxes, all at T1 standard.
+
+Together these constitute the **first complete Lurianic-to-Sabbatian doctrinal library in any Western language** — all five works upgraded to the T1 commentary standard (text labels, ✦ ✦ ✦ dividers, accessibility-compliant boxes).
 
 ## How to Use This Catalog
 

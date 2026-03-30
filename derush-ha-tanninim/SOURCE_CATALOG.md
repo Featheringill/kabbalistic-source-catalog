@@ -62,3 +62,17 @@ The manuscript is accessible via NYPL's IIIF Image API:
 |------|--------|-------------|--------|
 | Sefer ha-Beri'ah | Nathan of Gaza | Nathan's cosmological companion to the Derush ha-Tanninim — addresses the creation-process that the Derush's serpent-theology presupposes | ~30 MSS; critical edition on Academia.edu. No English translation exists |
 | Va-avo ha-Yom el ha-Ayin | Attrib. Eibeschutz | Most sophisticated philosophical elaboration of the Sabbatian theology Nathan initiated | Critical edition in Be-Ikvot Mashiah 2021. No full English translation |
+
+---
+
+## Translation Status
+
+- **Status:** T1 complete
+- **Volumes:** 1 (KDP-ready)
+  - Single volume: 4 sections, 8 chapters, folios 90r–104v
+- **Commentary boxes:** 71
+- **Box types:** Doctrinal (gold), Scholarly (blue), Textual-Critical (red), Nathan's Voice (green)
+- **Standard:** T1 — text labels, ✦ ✦ ✦ dividers, accessibility-compliant formatting
+- **EPUBs:** Built (threshold-press.com distribution)
+- **Translator:** L.L. Featheringill / Threshold Press
+- **Copyright:** © 2026 L.L. Featheringill

@@ -37,3 +37,19 @@ Published in Amsterdam in 1648 — the year of the Chmielnicki massacres in East
 - Etz Chayyim Gates 1–9 (parallel cosmological teachings from the Vital school)
 - Sefer Yetzirah (pre-kabbalistic cosmological framework)
 - Nathan of Gaza, Derush ha-Tanninim (1665) — departs from both Vital and Bachrach at the Tehiru
+
+---
+
+## Translation Status
+
+- **Status:** T1 complete
+- **Volumes:** 3 (KDP-ready)
+  - Vol 1: Before the Beginning (Nefesh David + Sha'ashu'a + Or Qadmon)
+  - Vol 2: The Structure of the Worlds (Adam Kadmon through Kiryat Arba)
+  - Vol 3: Head of Ze'ir Anpin + World of Beriyah
+- **Commentary boxes:** 210+
+- **Box types:** Doctrinal (gold), Scholarly (blue), Vital Divergence (red), Bachrach's Notes (green)
+- **Standard:** T1 — text labels, ✦ ✦ ✦ dividers, accessibility-compliant formatting
+- **EPUBs:** Built (threshold-press.com distribution)
+- **Translator:** L.L. Featheringill / Threshold Press
+- **Copyright:** © 2026 L.L. Featheringill

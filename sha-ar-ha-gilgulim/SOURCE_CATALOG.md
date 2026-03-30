@@ -27,3 +27,19 @@ The Sha'ar ha-Gilgulim is the most comprehensive Jewish text on the transmigrati
 - Etz Chayyim Gate 21 (Sha'ar ha-Gilgulim within the Etz Chayyim)
 - Etz Chayyim Gate 47 (Gilgulim Acharonim — final reincarnations)
 - Vital's Sefer ha-Chezyonot (Book of Visions) — personal dream diary; available at hebrewbooks.org/14197
+
+---
+
+## Translation Status
+
+- **Status:** T1 complete
+- **Volumes:** 3 (KDP-ready)
+  - Vol 1: Chapters 1–20 (Scholarly dual-column)
+  - Vol 2: Chapters 21–40 (Scholarly dual-column)
+  - Vol 3: All 40 chapters (Interpretive prose)
+- **Commentary boxes:** 657
+- **Box types:** Doctrinal (gold), Scholarly (blue), Textual-Critical (red), Vital's Notes (green)
+- **Standard:** T1 — text labels, ✦ ✦ ✦ dividers, accessibility-compliant formatting
+- **EPUBs:** Built (threshold-press.com distribution)
+- **Translator:** L.L. Featheringill / Threshold Press
+- **Copyright:** © 2026 L.L. Featheringill
