@@ -1,6 +1,6 @@
 # Threshold Press — Corpus Status
 
-**Updated:** March 30, 2026
+**Updated:** March 31, 2026
 **Standard:** T1 (text labels, ✦ ✦ ✦ dividers, accessibility-compliant commentary boxes)
 
 ## Complete Translations
@@ -10,9 +10,9 @@
 | **Etz Chayyim** | Vital/Luria | 5 | 800+ | T1 | Ready | Built |
 | **Sha'ar ha-Gilgulim** | Vital | 3 | 657 | T1 | Ready | Built |
 | **Sha'ar ha-Kavanot** | Vital | 4 | 338 | T1 | Ready | Built |
-| **Emek HaMelech** | Bachrach/Sarug | 3 | 210+ | T1 | Ready | Built |
+| **Emek HaMelech** | Bachrach/Sarug | 3 | 213 | T1 | Ready | Built |
 | **Derush ha-Tanninim** | Nathan of Gaza | 1 | 71 | T1 | Ready | Built |
-| **TOTAL** | | **16** | **2,076+** | | | |
+| **TOTAL** | | **16** | **2,079+** | | |
 
 ## T1 Standard
 
