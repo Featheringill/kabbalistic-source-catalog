@@ -13,10 +13,9 @@ This repository contains a public catalog of primary source materials, manuscrip
 | **Etz Chayyim** | Vital/Luria | Warsaw 1891 | [hebrewbooks.org/1646](https://hebrewbooks.org/1646) | T1 complete (KDP) | 5 | 800+ |
 | **Sha'ar ha-Gilgulim** | Vital | Frankfurt 1684 | [hebrewbooks.org/43534](https://hebrewbooks.org/43534) | T1 complete, KDP-ready | 3 | 657 |
 | **Sha'ar ha-Kavanot** | Vital | Koretz 1784 | [hebrewbooks.org/14347](https://hebrewbooks.org/14347) | T1 complete, KDP-ready | 4 | 338 |
-| **Emek HaMelech** | Bachrach/Sarug | Amsterdam 1648 | [hebrewbooks.org/14359](https://hebrewbooks.org/14359) | T1 complete, KDP-ready | 3 | 210+ |
+| **Emek HaMelech** | Bachrach/Sarug | Amsterdam 1648 | [hebrewbooks.org/14359](https://hebrewbooks.org/14359) | T1 complete, KDP-ready | 3 | 213 |
 | **Derush ha-Tanninim** | Nathan of Gaza | NYPL Ms. Heb. 185 (1697) | [NYPL Digital Collections](https://digitalcollections.nypl.org/items/d0a11fc0-2602-0130-d287-58d385a7b928) | T1 complete, KDP-ready | 1 | 71 |
-
-**Corpus totals:** 16 volumes, 2,076+ commentary boxes, all at T1 standard.
+**Corpus totals:** 16 volumes, 2,079+ commentary boxes, all at T1 standard.
 
 Together these constitute the **first complete Lurianic-to-Sabbatian doctrinal library in any Western language** — all five works upgraded to the T1 commentary standard (text labels, ✦ ✦ ✦ dividers, accessibility-compliant boxes).
 
@@ -28,7 +27,7 @@ Each subdirectory contains:
 
 The master `BIBLIOGRAPHY.md` at root lists all secondary scholarly sources referenced across the corpus.
 
-No translation content is included. Researchers seeking the translations should visit [threshold-press.com](https://threshold-press.com) or search Amazon KDP for "Threshold Press" + the work title.
+No translation content is included. Researchers seeking the translations should visit [threshold-press.com](https://threshold-press.com).
 
 ## Series Note
 
